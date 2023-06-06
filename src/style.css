@@ -24,11 +24,11 @@ body {
 }
 
 .nav {
-    display: flex;
     width: 20%;
     background-color: bisque;
     display: flex;
     flex-direction: column;
+
 }
 
 .btn {
